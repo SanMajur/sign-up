@@ -28,7 +28,7 @@ body {
 }
 .aside-picture {
     background-color: #596D48;
-    background-image: url('./img/bg.avif');
+    background-image: linear-gradient(black, transparent);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
